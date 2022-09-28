@@ -15,7 +15,7 @@ module.exports = (app) => {
         let userNote = {
             title: req.body.title,
             text: req.body.text,
-            //id: uniqid(),
+            id: uniqid(),
         };
         db.push(userNote);
         fs.writeFileSync('db/db.json', JSON.stringify(db));
