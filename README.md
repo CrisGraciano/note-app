@@ -45,7 +45,9 @@ Starter Code was given for this project. The following languages and packages we
 Heroku App Link : https://arcane-reef-78673.herokuapp.com/
 
 ## Pictures ##
+<img width="1280" alt="Screen Shot 2022-09-28 at 11 33 53 PM" src="https://user-images.githubusercontent.com/108714738/192940054-f3800e1c-437c-4d1a-8e8e-e78a3269eebd.png">
 
+<img width="1280" alt="Screen Shot 2022-09-28 at 11 33 41 PM" src="https://user-images.githubusercontent.com/108714738/192940062-3f293453-3375-4ad7-b345-fe5b485b12b2.png">
 
 ## Contact ##
 Github: Crisgraciano
