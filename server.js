@@ -4,9 +4,10 @@ const app = express();
 const apiRoutes = require('./routes/apiRoutes/apiRoutes');
 const htmlRoutes = require('./routes/htmlRoutes/htmlRoutes');
 
+app.use(express.static('public'));
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
-app.use(express.static('public'));
+
 
 app.use('/api', apiRoutes);
 app.use('/', htmlRoutes);

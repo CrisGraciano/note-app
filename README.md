@@ -41,8 +41,6 @@ Starter Code was given for this project. The following languages and packages we
         * Node.js
             * Express.js
 
-## Images ##
-
 ## Links to Deployed Application ##
 Heroku App Link : https://arcane-reef-78673.herokuapp.com/
 
